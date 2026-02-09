@@ -1,9 +1,4 @@
-Simulation & Data: Cisco Packet Tracer, Kali Linux (hping3, Nmap)
-AI & Machine Learning: Python, Scikit-learn, Pandas & NumPy, Flask / FastAPI
-Development & Response: Java
-DevOps & Infrastructure: GitHub, Docker
-Security & Cryptography: SHA-256
-Full Dashboard Tech Stack: React, MongoDB, Node.js, Express, Socket.ioVAJRA: AI-Powered Defence Cybersecurity System ⚡🛡️
+VAJRA: AI-Powered Defence Cybersecurity System ⚡🛡️
 VAJRA is an integrated cybersecurity framework designed to detect, analyze, and autonomously respond to network-level threats. By combining Artificial Intelligence, Real-time Monitoring, and DevOps automation, the system provides a proactive shield against evolving cyber attacks.
 
 🚀 Overview
